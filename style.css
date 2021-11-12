@@ -1,0 +1,33 @@
+h1 {
+    background-image: url(./img1.webp);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.item h2 {
+    font-family: Helvetice;
+    font-size:32px;
+    font-weight: bold;
+    color:khaki;
+}
+
+.brush {
+    background-color: mediumspringgreen;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+.frame {
+    background-color:lightcoral;
+}
+
+.pain {
+    background-color: skyblue;
+}
